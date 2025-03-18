@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming APKs Blog</title>
+    <style>
+        body {
+            background-color: black;
+            color: lime;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+        h1 {
+            text-shadow: 0 0 10px lime;
+            font-size: 2em;
+        }
+        .blog-container {
+            width: 80%;
+            margin: auto;
+            text-align: left;
+        }
+        .blog-post {
+            border-bottom: 2px solid lime;
+            padding: 15px 0;
+        }
+        .blog-post img {
+            width: 100%;
+            max-width: 300px;
+            display: block;
+            margin: 10px auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px lime;
+        }
+        .blog-post h2 {
+            color: lime;
+            text-shadow: 0 0 5px lime;
+        }
+        .blog-post p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Gaming APKs Blog</h1>
+    <div class="blog-container" id="blog-container">
+        <!-- Blog posts dynamically inserted here -->
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const blogData = [
+                {
+                    title: "SP EDITOR NEW FIXTURE REVEAL 😏",
+                    views: "1.6K views • 4 days ago",
+                    thumbnail: "https://youtu.be/NtbdxOF5-q8?si=mqdhtf6zWateHfty/300"
+                },
+                {
+                    title: "SP EDITOR | HALF REVIEW | DOWNLOAD NOW",
+                    views: "2.7K views • 6 days ago",
+                    thumbnail: "https://youtu.be/To2ANkJzk-4?si=ccBaTwp6E0FT40l0/300"
+                },
+                {
+                    title: "SP EDITOR COMING 😏 SQUAD, JERSEY, GAME...",
+                    views: "1.9K views • 10 days ago",
+                    thumbnail: "https://youtu.be/PuG3UNUHkkY?si=m3p80pQd0L0LMvCJ/300"
+                }
+            ];
+
+            const blogContainer = document.getElementById("blog-container");
+            blogData.forEach(post => {
+                const blogPost = document.createElement("div");
+                blogPost.classList.add("blog-post");
+                blogPost.innerHTML = `
+                    <img src="${post.thumbnail}" alt="Thumbnail">
+                    <h2>${post.title}</h2>
+                    <p>${post.views}</p>
+                `;
+                blogContainer.appendChild(blogPost);
+            });
+        });
+    </script>
+
+</body>
+</html>
