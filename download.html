@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Gaming APKs</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Background & Theme */
+        body {
+            font-family: 'Orbitron', sans-serif;
+            background: linear-gradient(135deg, #001a00, #004d00);
+            color: #0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        /* Navigation Bar */
+        nav {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 22px;
+            font-weight: bold;
+            color: #0f0;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #0f0;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            color: #00ff99;
+        }
+
+        /* Header */
+        header {
+            padding: 50px 20px;
+        }
+
+        .glow-text {
+            font-size: 32px;
+            text-shadow: 0 0 10px #0f0, 0 0 20px #00ff99, 0 0 30px #00ffcc;
+        }
+
+        /* Download Section */
+        #download-section {
+            margin: 30px auto;
+            width: 80%;
+            max-width: 600px;
+            padding: 20px;
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            box-shadow: 0 0 10px #0f0;
+        }
+
+        .apk-card {
+            padding: 20px;
+            border-radius: 10px;
+            background: rgba(0, 50, 0, 0.7);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .apk-card:hover {
+            transform: scale(1.05);
+        }
+
+        .apk-card img {
+            width: 100px;
+            height: 100px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #00ff99;
+        }
+
+        .apk-card h2 a {
+            text-decoration: none;
+            color: #0f0;
+        }
+
+        .apk-card h2 a:hover {
+            color: #00ff99;
+        }
+
+        /* Fade-in Animation */
+        .fade-in {
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <div class="logo">🎮 Gaming APKs</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="download.html">Download</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1 class="glow-text">Download Your Favorite Gaming APK</h1>
+        <p>Click the title below to download the game.</p>
+    </header>
+
+    <section id="download-section">
+        <div class="apk-card">
+            <img src="game-logo.png" alt="Game Logo">
+            <h2><a href="https://example.com/game.apk" target="_blank">🔥 Ultimate Cricket 2025</a></h2>
+            <p>Experience the best cricket game with realistic graphics and smooth gameplay.</p>
+        </div>
+    </section>
+
+    <script>
+        // Simple animation on load
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelector("header").classList.add("fade-in");
+            document.querySelector("#download-section").classList.add("fade-in");
+        });
+    </script>
+
+</body>
+</html>
