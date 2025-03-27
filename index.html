@@ -11,13 +11,19 @@
     
     <style>
         body {
-            background-color: #0d0d0d;
+            background-color: #000;
             color: #0fff50;
             font-family: 'Courier New', monospace;
             text-align: center;
         }
-        .hero {
-            margin-bottom: 50px;
+        header {
+            padding: 20px 0;
+            background: #0d0d0d;
+            box-shadow: 0 4px 10px rgba(0, 255, 80, 0.5);
+        }
+        h1 {
+            font-size: 32px;
+            text-shadow: 0 0 15px #0fff50;
         }
         .apk-slider {
             margin-top: 50px;
@@ -25,10 +31,11 @@
             background: rgba(0, 255, 80, 0.1);
             border: 2px solid #0fff50;
             border-radius: 10px;
+            box-shadow: 0 0 15px #0fff50;
         }
         h2 {
-            font-size: 28px;
-            text-shadow: 0 0 10px #0fff50;
+            font-size: 24px;
+            text-shadow: 0 0 12px #0fff50;
         }
         .swiper-container {
             width: 90%;
@@ -37,24 +44,54 @@
         }
         .swiper-slide {
             text-align: center;
+            padding: 10px;
         }
         .swiper-slide img {
-            width: auto;
-            max-width: 100%;
-            height: 200px;
+            width: 100%;
+            max-width: 300px;
+            height: auto;
             object-fit: contain;
             border-radius: 10px;
-            box-shadow: 0 0 10px #0fff50;
-            transition: transform 0.3s;
+            box-shadow: 0 0 12px #0fff50;
+            transition: transform 0.3s ease-in-out;
         }
         .swiper-slide img:hover {
-            transform: scale(1.05);
+            transform: scale(1.1);
         }
         .apk-title {
             font-size: 18px;
             margin-top: 10px;
             font-weight: bold;
             color: #0fff50;
+            text-shadow: 0 0 10px #0fff50;
+        }
+        .download-buttons {
+            margin-top: 10px;
+        }
+        .download-buttons button {
+            background: #0fff50;
+            color: #000;
+            border: none;
+            padding: 12px 20px;
+            margin: 5px;
+            cursor: pointer;
+            border-radius: 8px;
+            font-weight: bold;
+            box-shadow: 0 0 10px #0fff50;
+            transition: background 0.3s, transform 0.2s;
+        }
+        .download-buttons button:hover {
+            background: #09e046;
+            transform: scale(1.05);
+        }
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .swiper-container {
+                width: 100%;
+            }
+            .swiper-slide img {
+                max-width: 90%;
+            }
         }
     </style>
 </head>
@@ -65,19 +102,11 @@
             <ul>
                 <li><a href="index.html">🏠 Home</a></li>
                 <li><a href="download.html">📥 Download</a></li>
-                <li><a href="bolg.html">📜 Blog</a></li>
+                <li><a href="blog.html">📜 Blog</a></li>
                 <li><a href="about.html">ℹ About</a></li>
             </ul>
         </nav>
     </header>
-
-    <section class="hero">
-        <h2>Find and Download the Best Gaming APKs</h2>
-        <div class="search-box">
-            <input type="text" id="search-input" placeholder="Search for APKs...">
-            <button onclick="searchAPK()">🔍 Search</button>
-        </div>
-    </section>
 
     <!-- Swiper Slider Section -->
     <section class="apk-slider">
@@ -86,15 +115,27 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <h3 class="apk-title">Real Cricket 22</h3>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotd4SGC66i7dCj1HlCLO3sEkoJ9wGlAlT9ZM1eHsRoxOby5zi&s" alt="RC22">
-                </div>
-                <div class="swiper-slide">
-                    <h3 class="apk-title">WCC 3 MOD APK</h3>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqkdzUAkO4ibxpkD_AXolhQA6-0lNrzJq-7lGTCejW7Dc77U&s" alt="WCC 3">
+                    <img src="apk1.jpg" alt="Real Cricket 22">
+                    <div class="download-buttons">
+                        <button onclick="triggerAPKPureDownload()">Download</button>
+                        <button onclick="triggerFastDownload()">Fast Download</button>
+                    </div>
                 </div>
                 <div class="swiper-slide">
                     <h3 class="apk-title">DREAM CRICKET 25</h3>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReB12Rb9XRLUoUYFYzCpX22ryA1ItOcFunkX1KFk-NDKEgCig&s" alt="DC25">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWQlTykPNrnV3mLN_CzFfuRxM2ojtupdGLOsMwnxwEDg52vQK&s" alt="APK 2">
+                    <div class="download-buttons">
+                        <button onclick="triggerAPKPureDownload()">Download</button>
+                        <button onclick="triggerFastDownload()">Fast Download</button>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <h3 class="apk-title">WCC3 MOD APK</h3>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqkdzUAkO4ibxpkD_AXolhQA6-0lNrzJq-7lGTCejW7Dc77U&s" alt="APK 3">
+                    <div class="download-buttons">
+                        <button onclick="triggerAPKPureDownload()">Download</button>
+                        <button onclick="triggerFastDownload()">Fast Download</button>
+                    </div>
                 </div>
             </div>
             <div class="swiper-pagination"></div>
@@ -105,7 +146,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
     <script>
         var swiper = new Swiper(".swiper-container", {
-            slidesPerView: 3,
+            slidesPerView: 'auto',
             spaceBetween: 10,
             loop: true,
             autoplay: {
@@ -117,8 +158,20 @@
                 clickable: true,
             },
         });
+
+        function triggerAPKPureDownload() {
+            window.location.href = "https://apkpure.com/your-apk-download-link";
+        }
+        
+        function triggerFastDownload() {
+            let userConfirmed = confirm("Subscribe to continue with Fast Download.");
+            if (userConfirmed) {
+                window.open("https://www.youtube.com/@SHAYANPRESENT96", "_blank");
+                setTimeout(() => {
+                    window.location.href = "https://your-fast-download-link.com";
+                }, 3000);
+            }
+        }
     </script>
-    
-    <script src="script.js"></script>
 </body>
 </html>
