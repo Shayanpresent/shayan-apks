@@ -35,16 +35,26 @@
             margin: auto;
             padding-top: 20px;
         }
+        .swiper-slide {
+            text-align: center;
+        }
         .swiper-slide img {
-            width: 100%;
+            width: auto;
+            max-width: 100%;
             height: 200px;
-            object-fit: cover;
+            object-fit: contain;
             border-radius: 10px;
             box-shadow: 0 0 10px #0fff50;
             transition: transform 0.3s;
         }
         .swiper-slide img:hover {
             transform: scale(1.05);
+        }
+        .apk-title {
+            font-size: 18px;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #0fff50;
         }
     </style>
 </head>
@@ -74,9 +84,18 @@
         <h2>New Gaming APKs</h2>
         <div class="swiper-container">
             <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotd4SGC66i7dCj1HlCLO3sEkoJ9wGlAlT9ZM1eHsRoxOby5zi&s" alt="REAL CRICKET 22"></div>
-                <div class="swiper-slide"><img src="apk2.jpg" alt="APK 2"></div>
-                <div class="swiper-slide"><img src="apk3.jpg" alt="APK 3"></div>
+                <div class="swiper-slide">
+                    <h3 class="apk-title">Real Cricket 22</h3>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotd4SGC66i7dCj1HlCLO3sEkoJ9wGlAlT9ZM1eHsRoxOby5zi&s" alt="RC22">
+                </div>
+                <div class="swiper-slide">
+                    <h3 class="apk-title">WCC 3 MOD APK</h3>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqkdzUAkO4ibxpkD_AXolhQA6-0lNrzJq-7lGTCejW7Dc77U&s" alt="WCC 3">
+                </div>
+                <div class="swiper-slide">
+                    <h3 class="apk-title">APK 3</h3>
+                    <img src="apk3.jpg" alt="APK 3">
+                </div>
             </div>
             <div class="swiper-pagination"></div>
         </div>
