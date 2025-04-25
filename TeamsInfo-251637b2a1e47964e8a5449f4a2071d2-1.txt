@@ -1,0 +1,2977 @@
+[{
+	"Index": "0",
+	"FileName": "Australia",
+	"TeamName": "AUSTRALIA",
+	"Abv": "AUS",
+	"Rating_Bat": "85",
+	"Rating_Bowl": "84",
+	"Rating_Field": "82",
+	"Logo": "Logo_Australia",
+	"Jersey": "Uniform_Australia",
+	"Pad": "Pad_Australia",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 233,
+		"y": 223,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 58,
+		"z": 38
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 53,
+		"z": 37
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "51"
+}, {
+	"Index": "1",
+	"FileName": "England",
+	"TeamName": "ENGLAND",
+	"Abv": "ENG",
+	"Rating_Bat": "82",
+	"Rating_Bowl": "80",
+	"Rating_Field": "80",
+	"Logo": "Logo_England",
+	"Jersey": "Uniform_England",
+	"Pad": "Pad_England",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 26,
+		"y": 81,
+		"z": 164
+	},
+	"Jersey_No_RGB": {
+		"x": 247,
+		"y": 252,
+		"z": 246
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "41"
+}, {
+	"Index": "2",
+	"FileName": "India",
+	"TeamName": "INDIA",
+	"Abv": "IND",
+	"Rating_Bat": "87",
+	"Rating_Bowl": "84",
+	"Rating_Field": "84",
+	"Logo": "Logo_India",
+	"Jersey": "Uniform_India",
+	"Pad": "Pad_India",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 112,
+		"z": 250
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 101,
+		"z": 13
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "75"
+}, {
+	"Index": "3",
+	"FileName": "Newzealand",
+	"TeamName": "NEW ZEALAND",
+	"Abv": "NZ",
+	"Rating_Bat": "82",
+	"Rating_Bowl": "78",
+	"Rating_Field": "80",
+	"Logo": "Logo_Newzealand",
+	"Jersey": "Uniform_Newzealand",
+	"Pad": "Pad_Newzealand",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 30,
+		"y": 31,
+		"z": 26
+	},
+	"Jersey_No_RGB": {
+		"x": 248,
+		"y": 250,
+		"z": 247
+	},
+	"StripBG": {
+		"x": 18,
+		"y": 99,
+		"z": 207
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "54"
+}, {
+	"Index": "4",
+	"FileName": "Pakistan",
+	"TeamName": "PAKISTAN",
+	"Abv": "PAK",
+	"Rating_Bat": "78",
+	"Rating_Bowl": "80",
+	"Rating_Field": "78",
+	"Logo": "Logo_Pakistan",
+	"Jersey": "Uniform_Pakistan",
+	"Pad": "Pad_Pakistan",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 167,
+		"y": 215,
+		"z": 53
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "72"
+}, {
+	"Index": "5",
+	"FileName": "Southafrica",
+	"TeamName": "SOUTH AFRICA",
+	"Abv": "SA",
+	"Rating_Bat": "86",
+	"Rating_Bowl": "80",
+	"Rating_Field": "81",
+	"Logo": "Logo_Southafrica",
+	"Jersey": "Uniform_Southafrica",
+	"Pad": "Pad_Southafrica",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 17,
+		"y": 74,
+		"z": 55
+	},
+	"Jersey_No_RGB": {
+		"x": 246,
+		"y": 224,
+		"z": 53
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "135"
+}, {
+	"Index": "6",
+	"FileName": "Srilanka",
+	"TeamName": "SRI LANKA",
+	"Abv": "SL",
+	"Rating_Bat": "75",
+	"Rating_Bowl": "76",
+	"Rating_Field": "76",
+	"Logo": "Logo_Srilanka",
+	"Jersey": "Uniform_Srilanka",
+	"Pad": "Pad_Srilanka",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 19,
+		"y": 58,
+		"z": 123
+	},
+	"Jersey_No_RGB": {
+		"x": 249,
+		"y": 251,
+		"z": 246
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "147"
+}, {
+	"Index": "7",
+	"FileName": "Westindies",
+	"TeamName": "WEST INDIES",
+	"Abv": "WI",
+	"Rating_Bat": "78",
+	"Rating_Bowl": "75",
+	"Rating_Field": "79",
+	"Logo": "Logo_Westindies",
+	"Jersey": "Uniform_Westindies",
+	"Pad": "Pad_Westindies",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 113,
+		"y": 42,
+		"z": 56
+	},
+	"Jersey_No_RGB": {
+		"x": 246,
+		"y": 218,
+		"z": 48
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "107"
+}, {
+	"Index": "8",
+	"FileName": "Zimbabwe",
+	"TeamName": "ZIMBABWE",
+	"Abv": "ZIM",
+	"Rating_Bat": "65",
+	"Rating_Bowl": "63",
+	"Rating_Field": "76",
+	"Logo": "Logo_Zimbambe",
+	"Jersey": "Uniform_Zimbabwe",
+	"Pad": "Pad_Zimbabwe",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 174,
+		"y": 16,
+		"z": 15
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "53"
+}, {
+	"Index": "9",
+	"FileName": "Bangladesh",
+	"TeamName": "BANGLADESH",
+	"Abv": "BAN",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "74",
+	"Rating_Field": "76",
+	"Logo": "Logo_Bangladesh",
+	"Jersey": "Uniform_Bangladesh",
+	"Pad": "Pad_Bangladesh",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 16,
+		"y": 150,
+		"z": 51
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 162,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 243,
+		"y": 29,
+		"z": 27
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "86"
+}, {
+	"Index": "10",
+	"FileName": "Afghanistan",
+	"TeamName": "AFGHANISTAN",
+	"Abv": "AFG",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "68",
+	"Rating_Field": "74",
+	"Logo": "Logo_Afganistan",
+	"Jersey": "Uniform_Afghanistan",
+	"Pad": "Pad_Afghanistan",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 23,
+		"y": 70,
+		"z": 162
+	},
+	"Jersey_No_RGB": {
+		"x": 234,
+		"y": 150,
+		"z": 64
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "60"
+}, {
+	"Index": "11",
+	"FileName": "Ireland",
+	"TeamName": "IRELAND",
+	"Abv": "IRE",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "67",
+	"Rating_Field": "74",
+	"Logo": "Logo_Ireland",
+	"Jersey": "Uniform_Ireland",
+	"Pad": "Pad_Ireland",
+	"Type": "0",
+	"TestEligible": "1",
+	"Jersey_RGB": {
+		"x": 144,
+		"y": 217,
+		"z": 74
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "64"
+}, {
+	"Index": "12",
+	"FileName": "Scotland",
+	"TeamName": "SCOTLAND",
+	"Abv": "SCO",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "58",
+	"Rating_Field": "75",
+	"Logo": "Logo_Scotland",
+	"Jersey": "Uniform_Scortlend",
+	"Pad": "Pad_Scortlend",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 14,
+		"y": 27,
+		"z": 72
+	},
+	"Jersey_No_RGB": {
+		"x": 250,
+		"y": 248,
+		"z": 249
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "74"
+}, {
+	"Index": "13",
+	"FileName": "Uae",
+	"TeamName": "UAE",
+	"Abv": "UAE",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "57",
+	"Rating_Field": "74",
+	"Logo": "Logo_Uae",
+	"Jersey": "Uniform_Uae",
+	"Pad": "Pad_Uae",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 71,
+		"y": 73,
+		"z": 72
+	},
+	"Jersey_No_RGB": {
+		"x": 250,
+		"y": 252,
+		"z": 249
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "47"
+}, {
+	"Index": "14",
+	"FileName": "Netherland",
+	"TeamName": "NETHERLAND",
+	"Abv": "NT",
+	"Rating_Bat": "69",
+	"Rating_Bowl": "61",
+	"Rating_Field": "74",
+	"Logo": "Logo_Netherland",
+	"Jersey": "Uniform_Netherland",
+	"Pad": "Pad_Netherland",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 231,
+		"y": 75,
+		"z": 37
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 254,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "53"
+}, {
+	"Index": "15",
+	"FileName": "Hongkong",
+	"TeamName": "HONG KONG",
+	"Abv": "HK",
+	"Rating_Bat": "67",
+	"Rating_Bowl": "53",
+	"Rating_Field": "74",
+	"Logo": "Logo_Hongkong",
+	"Jersey": "Uniform_Hongkong",
+	"Pad": "Pad_Hongkong",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 9,
+		"y": 9,
+		"z": 9
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 254,
+		"z": 254
+	},
+	"StripBG": {
+		"x": 212,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "50"
+}, {
+	"Index": "16",
+	"FileName": "Nepal",
+	"TeamName": "NEPAL",
+	"Abv": "NEP",
+	"Rating_Bat": "67",
+	"Rating_Bowl": "57",
+	"Rating_Field": "73",
+	"Logo": "Logo_Nepal",
+	"Jersey": "Uniform_Nepal",
+	"Pad": "Pad_Nepal",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 10,
+		"y": 81,
+		"z": 174
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 255,
+		"z": 253
+	},
+	"StripBG": {
+		"x": 185,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "45"
+}, {
+	"Index": "17",
+	"FileName": "Oman",
+	"TeamName": "OMAN",
+	"Abv": "OMAN",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "58",
+	"Rating_Field": "73",
+	"Logo": "Logo_Oman",
+	"Jersey": "Uniform_Oman",
+	"Pad": "Pad_Oman",
+	"Type": "0",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 199,
+		"y": 1,
+		"z": 34
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 254,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "74"
+}, {
+	"Index": "18",
+	"FileName": "Perthpredators",
+	"TeamName": "PERTH PREDATORS",
+	"Abv": "PP",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "76",
+	"Rating_Field": "78",
+	"Logo": "Logo_Perth_Predators",
+	"Jersey": "Uniform_Perth_Predators",
+	"Pad": "Pad_Perth_Predators",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 237,
+		"y": 114,
+		"z": 54
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "19",
+	"FileName": "Adelaideblazers",
+	"TeamName": "ADELAIDE BLAZERS",
+	"Abv": "AB",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Adelaide_Blazers",
+	"Jersey": "Uniform_Adelaide_Blazers",
+	"Pad": "Pad_Adelaide_Blazers",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 15,
+		"y": 97,
+		"z": 205
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 4,
+		"y": 6,
+		"z": 5
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "20",
+	"FileName": "Sydneychampions",
+	"TeamName": "SYDNEY CHAMPIONS",
+	"Abv": "SC",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "79",
+	"Rating_Field": "78",
+	"Logo": "Logo_Sydney_Champions",
+	"Jersey": "Uniform_Sydney_Champions",
+	"Pad": "Pad_Sydney_Champions",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 215,
+		"y": 32,
+		"z": 88
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 8,
+		"y": 10,
+		"z": 7
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "21",
+	"FileName": "Sydneyfighter",
+	"TeamName": "SYDNEY FIGHTERS",
+	"Abv": "SF",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Sydney_Fighter",
+	"Jersey": "Uniform_Sydney_Fighter",
+	"Pad": "Pad_Sydney_Fighter",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 209,
+		"y": 237,
+		"z": 65
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "22",
+	"FileName": "Hobartlightning",
+	"TeamName": "HOBART LIGHTNING",
+	"Abv": "HL",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "71",
+	"Rating_Field": "79",
+	"Logo": "Logo_Hobart_Lightning",
+	"Jersey": "Uniform_Hobart_Lightning",
+	"Pad": "Pad_Hobart_Lightning",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 54,
+		"y": 26,
+		"z": 139
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 26,
+		"y": 26,
+		"z": 26
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "23",
+	"FileName": "Melbournemavericks",
+	"TeamName": "MELBOURNE MAVERICKS",
+	"Abv": "MM",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "71",
+	"Rating_Field": "80",
+	"Logo": "Logo_Melbourne_Mavericks",
+	"Jersey": "Uniform_Melbourne_Mavericks",
+	"Pad": "Pad_Melbourne_Mavericks",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 215,
+		"y": 46,
+		"z": 25
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "24",
+	"FileName": "Brisbanehawks",
+	"TeamName": "BRISBANE HAWKS",
+	"Abv": "BH",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "72",
+	"Rating_Field": "80",
+	"Logo": "Logo_Brisbane_Hawks",
+	"Jersey": "Uniform_Brisbane_Hawks",
+	"Pad": "Pad_Brisbane_Hawks",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 16,
+		"y": 169,
+		"z": 201
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 24,
+		"y": 26,
+		"z": 23
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "25",
+	"FileName": "Melbournesharks",
+	"TeamName": "MELBOURNE SHARKS",
+	"Abv": "MS",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "73",
+	"Rating_Field": "80",
+	"Logo": "Logo_Melbourne_Sharks",
+	"Jersey": "Uniform_Melbourne_Sharks",
+	"Pad": "Pad_Melbourne_Sharks",
+	"Type": "1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 21,
+		"y": 185,
+		"z": 124
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "26",
+	"FileName": "IndiaMasters",
+	"TeamName": "INDIA MASTER",
+	"Abv": "INM",
+	"Rating_Bat": "87",
+	"Rating_Bowl": "81",
+	"Rating_Field": "76",
+	"Logo": "Logo_India_m",
+	"Jersey": "Uniform_India_m",
+	"Pad": "Pad_India_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 45,
+		"y": 68,
+		"z": 130
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 203,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "27",
+	"FileName": "PakistanMasters",
+	"TeamName": "PAKISTAN MASTER",
+	"Abv": "PKM",
+	"Rating_Bat": "84",
+	"Rating_Bowl": "91",
+	"Rating_Field": "77",
+	"Logo": "Logo_Pakistan_m",
+	"Jersey": "Uniform_Pakistan_m",
+	"Pad": "Pad_Pakistan_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 148,
+		"y": 230,
+		"z": 70
+	},
+	"Jersey_No_RGB": {
+		"x": 1,
+		"y": 7,
+		"z": 145
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "28",
+	"FileName": "SrilankaMasters",
+	"TeamName": "SRI LANKA MASTER",
+	"Abv": "SLM",
+	"Rating_Bat": "84",
+	"Rating_Bowl": "82",
+	"Rating_Field": "78",
+	"Logo": "Logo_Srilanka_m",
+	"Jersey": "Uniform_Srilanka_m",
+	"Pad": "Pad_Srilanka_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 49,
+		"y": 74,
+		"z": 141
+	},
+	"Jersey_No_RGB": {
+		"x": 251,
+		"y": 205,
+		"z": 50
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "29",
+	"FileName": "AustraliaMasters",
+	"TeamName": "AUSTRALIA MASTER",
+	"Abv": "AUM",
+	"Rating_Bat": "88",
+	"Rating_Bowl": "89",
+	"Rating_Field": "83",
+	"Logo": "Logo_Australia_m",
+	"Jersey": "Uniform_Australia_m",
+	"Pad": "Pad_Australia_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 230,
+		"y": 203,
+		"z": 2
+	},
+	"Jersey_No_RGB": {
+		"x": 29,
+		"y": 133,
+		"z": 58
+	},
+	"StripBG": {
+		"x": 29,
+		"y": 96,
+		"z": 158
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "30",
+	"FileName": "EnglandMasters",
+	"TeamName": "ENGLAND MASTER",
+	"Abv": "ENM",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "87",
+	"Rating_Field": "77",
+	"Logo": "Logo_England_m",
+	"Jersey": "Uniform_England_m",
+	"Pad": "Pad_England_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 113,
+		"y": 179,
+		"z": 231
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 1,
+		"z": 102
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "31",
+	"FileName": "NewzealandMasters",
+	"TeamName": "NEW ZEALAND MASTER",
+	"Abv": "NZM",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "82",
+	"Rating_Field": "80",
+	"Logo": "Logo_Newzealand_m",
+	"Jersey": "Uniform_Newzeland_m",
+	"Pad": "Pad_Newzeland_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 128,
+		"y": 136,
+		"z": 149
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "32",
+	"FileName": "SouthAfricaMasters",
+	"TeamName": "SOUTH AFRICA MASTER",
+	"Abv": "SAM",
+	"Rating_Bat": "84",
+	"Rating_Bowl": "83",
+	"Rating_Field": "83",
+	"Logo": "Logo_Southafrica_m",
+	"Jersey": "Uniform_Southafrica_m",
+	"Pad": "Pad_Southafrica_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 32,
+		"y": 139,
+		"z": 99
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 228,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "33",
+	"FileName": "WestindiesMasters",
+	"TeamName": "WEST INDIES MASTER",
+	"Abv": "WIM",
+	"Rating_Bat": "91",
+	"Rating_Bowl": "93",
+	"Rating_Field": "78",
+	"Logo": "Logo_Westindies_m",
+	"Jersey": "Uniform_Westindies_m",
+	"Pad": "Pad_Westindies_m",
+	"Type": "2",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 76,
+		"y": 26,
+		"z": 46
+	},
+	"Jersey_No_RGB": {
+		"x": 123,
+		"y": 139,
+		"z": 162
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "34",
+	"FileName": "ZimbabweMasters",
+	"TeamName": "ZIMBABWE MASTER",
+	"Abv": "ZMA",
+	"Rating_Bat": "74",
+	"Rating_Bowl": "78",
+	"Rating_Field": "76",
+	"Logo": "Logo_Zimbambe_m",
+	"Jersey": "Uniform_Zimbabwe_m",
+	"Pad": "Pad_Zimbabwe_m",
+	"Type": "-1",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 225,
+		"y": 1,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 202,
+		"z": 2
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "35",
+	"FileName": "IndiaU19",
+	"TeamName": "INDIA U-19",
+	"Abv": "IND",
+	"Rating_Bat": "72",
+	"Rating_Bowl": "72",
+	"Rating_Field": "78",
+	"Logo": "Logo_India",
+	"Jersey": "Uniform_India",
+	"Pad": "Pad_India",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 112,
+		"z": 250
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 101,
+		"z": 13
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "36",
+	"FileName": "SouthAfricaU19",
+	"TeamName": "SOUTH AFRICA U-19",
+	"Abv": "SA",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "70",
+	"Rating_Field": "78",
+	"Logo": "Logo_Southafrica",
+	"Jersey": "Uniform_Southafrica",
+	"Pad": "Pad_Southafrica",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 17,
+		"y": 74,
+		"z": 55
+	},
+	"Jersey_No_RGB": {
+		"x": 246,
+		"y": 224,
+		"z": 53
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "37",
+	"FileName": "AfghanistanU19",
+	"TeamName": "AFGHANISTAN U-19",
+	"Abv": "AFG",
+	"Rating_Bat": "68",
+	"Rating_Bowl": "69",
+	"Rating_Field": "78",
+	"Logo": "Logo_Afganistan",
+	"Jersey": "Uniform_Afghanistan",
+	"Pad": "Pad_Afghanistan",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 23,
+		"y": 70,
+		"z": 162
+	},
+	"Jersey_No_RGB": {
+		"x": 234,
+		"y": 150,
+		"z": 64
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "38",
+	"FileName": "BangladeshU19",
+	"TeamName": "BANGLADESH U-19",
+	"Abv": "BAN",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "69",
+	"Rating_Field": "78",
+	"Logo": "Logo_Bangladesh",
+	"Jersey": "Uniform_Bangladesh",
+	"Pad": "Pad_Bangladesh",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 16,
+		"y": 150,
+		"z": 51
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 162,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 243,
+		"y": 29,
+		"z": 27
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "39",
+	"FileName": "NewzealandU19",
+	"TeamName": "NEW ZEALAND U-19",
+	"Abv": "NZ",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "70",
+	"Rating_Field": "80",
+	"Logo": "Logo_Newzealand",
+	"Jersey": "Uniform_Newzealand",
+	"Pad": "Pad_Newzealand",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 30,
+		"y": 31,
+		"z": 26
+	},
+	"Jersey_No_RGB": {
+		"x": 248,
+		"y": 250,
+		"z": 247
+	},
+	"StripBG": {
+		"x": 18,
+		"y": 99,
+		"z": 207
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "40",
+	"FileName": "PakistanU19",
+	"TeamName": "PAKISTAN U-19",
+	"Abv": "PAK",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "68",
+	"Rating_Field": "76",
+	"Logo": "Logo_Pakistan",
+	"Jersey": "Uniform_Pakistan",
+	"Pad": "Pad_Pakistan",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 167,
+		"y": 215,
+		"z": 53
+	},
+	"Jersey_No_RGB": {
+		"x": 200,
+		"y": 167,
+		"z": 12
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "41",
+	"FileName": "WestindiesU19",
+	"TeamName": "WEST INDIES U-19",
+	"Abv": "WI",
+	"Rating_Bat": "68",
+	"Rating_Bowl": "70",
+	"Rating_Field": "76",
+	"Logo": "Logo_Westindies",
+	"Jersey": "Uniform_Westindies",
+	"Pad": "Pad_Westindies",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 113,
+		"y": 42,
+		"z": 56
+	},
+	"Jersey_No_RGB": {
+		"x": 246,
+		"y": 218,
+		"z": 48
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "42",
+	"FileName": "SrilankaU19",
+	"TeamName": "SRI LANKA U-19",
+	"Abv": "SL",
+	"Rating_Bat": "69",
+	"Rating_Bowl": "69",
+	"Rating_Field": "76",
+	"Logo": "Logo_Srilanka",
+	"Jersey": "Uniform_Srilanka",
+	"Pad": "Pad_Srilanka",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 19,
+		"y": 58,
+		"z": 123
+	},
+	"Jersey_No_RGB": {
+		"x": 249,
+		"y": 251,
+		"z": 246
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "43",
+	"FileName": "AustraliaU19",
+	"TeamName": "AUSTRALIA U-19",
+	"Abv": "AUS",
+	"Rating_Bat": "71",
+	"Rating_Bowl": "72",
+	"Rating_Field": "80",
+	"Logo": "Logo_Australia",
+	"Jersey": "Uniform_Australia",
+	"Pad": "Pad_Australia",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 233,
+		"y": 223,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 58,
+		"z": 38
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 53,
+		"z": 37
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "44",
+	"FileName": "EnglandU19",
+	"TeamName": "ENGLAND U-19",
+	"Abv": "ENG",
+	"Rating_Bat": "70",
+	"Rating_Bowl": "70",
+	"Rating_Field": "78",
+	"Logo": "Logo_England",
+	"Jersey": "Uniform_England",
+	"Pad": "Pad_England",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 26,
+		"y": 81,
+		"z": 164
+	},
+	"Jersey_No_RGB": {
+		"x": 247,
+		"y": 252,
+		"z": 246
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "45",
+	"FileName": "IrelandU19",
+	"TeamName": "IRELAND U-19",
+	"Abv": "IRE",
+	"Rating_Bat": "62",
+	"Rating_Bowl": "64",
+	"Rating_Field": "74",
+	"Logo": "Logo_Ireland",
+	"Jersey": "Uniform_Ireland",
+	"Pad": "Pad_Ireland",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 144,
+		"y": 217,
+		"z": 74
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "46",
+	"FileName": "NamibiaU19",
+	"TeamName": "NAMIBIA U-19",
+	"Abv": "NAM",
+	"Rating_Bat": "60",
+	"Rating_Bowl": "61",
+	"Rating_Field": "72",
+	"Logo": "Logo_Namibia",
+	"Jersey": "Uniform_Namibia",
+	"Pad": "Pad_Namibia",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 41,
+		"y": 81,
+		"z": 187
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "47",
+	"FileName": "KenyaU19",
+	"TeamName": "KENYA U-19",
+	"Abv": "KEN",
+	"Rating_Bat": "60",
+	"Rating_Bowl": "62",
+	"Rating_Field": "73",
+	"Logo": "Logo_Kenya",
+	"Jersey": "Uniform_Kenya",
+	"Pad": "Pad_Kenya",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 63,
+		"y": 104,
+		"z": 84
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "48",
+	"FileName": "CanadaU19",
+	"TeamName": "CANADA U-19",
+	"Abv": "CAN",
+	"Rating_Bat": "62",
+	"Rating_Bowl": "61",
+	"Rating_Field": "75",
+	"Logo": "Logo_Canada",
+	"Jersey": "Uniform_Canada",
+	"Pad": "Pad_Canada",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 234,
+		"y": 0,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 36,
+		"y": 36,
+		"z": 36
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "49",
+	"FileName": "PNGU19",
+	"TeamName": "PAPUA NEW GUINEA U-19",
+	"Abv": "PNG",
+	"Rating_Bat": "60",
+	"Rating_Bowl": "61",
+	"Rating_Field": "72",
+	"Logo": "Logo_PNG",
+	"Jersey": "Uniform_PNG",
+	"Pad": "Pad_PNG",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 233,
+		"y": 208,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "50",
+	"FileName": "ZimbabweU19",
+	"TeamName": "ZIMBABWE U-19",
+	"Abv": "ZIM",
+	"Rating_Bat": "62",
+	"Rating_Bowl": "62",
+	"Rating_Field": "74",
+	"Logo": "Logo_Zimbambe",
+	"Jersey": "Uniform_Zimbabwe",
+	"Pad": "Pad_Zimbabwe",
+	"Type": "3",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 174,
+		"y": 16,
+		"z": 15
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "51",
+	"FileName": "ChennaiStingers",
+	"TeamName": "CHENNAI STINGERS",
+	"Abv": "CS",
+	"Rating_Bat": "81",
+	"Rating_Bowl": "76",
+	"Rating_Field": "82",
+	"Logo": "Logo_Chennai",
+	"Jersey": "Uniform_Chennai",
+	"Pad": "Pad_Chennai",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 237,
+		"y": 241,
+		"z": 60
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 1,
+		"z": 84
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "52",
+	"FileName": "DelhiDynamos",
+	"TeamName": "DELHI DYNAMOS",
+	"Abv": "DD",
+	"Rating_Bat": "84",
+	"Rating_Bowl": "79",
+	"Rating_Field": "79",
+	"Logo": "Logo_Delhi",
+	"Jersey": "Uniform_Delhi",
+	"Pad": "Pad_Delhi",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 39,
+		"z": 131
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 227,
+		"y": 10,
+		"z": 10
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "53",
+	"FileName": "PunjabBlasters",
+	"TeamName": "PUNJAB BLASTERS",
+	"Abv": "PB",
+	"Rating_Bat": "81",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Punjab",
+	"Jersey": "Uniform_Punjab",
+	"Pad": "Pad_Punjab",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 217,
+		"y": 0,
+		"z": 0
+	},
+	"Jersey_No_RGB": {
+		"x": 240,
+		"y": 242,
+		"z": 241
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "54",
+	"FileName": "KolkataTigers",
+	"TeamName": "KOLKATA TIGERS",
+	"Abv": "KT",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "82",
+	"Rating_Field": "79",
+	"Logo": "Logo_Kolkata",
+	"Jersey": "Uniform_Kolkata",
+	"Pad": "Pad_Kolkata",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 31,
+		"y": 12,
+		"z": 93
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 195,
+		"z": 36
+	},
+	"StripBG": {
+		"x": 247,
+		"y": 196,
+		"z": 15
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "55",
+	"FileName": "MumbaiLegends",
+	"TeamName": "MUMBAI LEGENDS",
+	"Abv": "ML",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "78",
+	"Rating_Field": "78",
+	"Logo": "Logo_Mumbai",
+	"Jersey": "Uniform_Mumbai",
+	"Pad": "Pad_Mumbai",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 31,
+		"z": 134
+	},
+	"Jersey_No_RGB": {
+		"x": 254,
+		"y": 196,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 255,
+		"y": 251,
+		"z": 4
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "56",
+	"FileName": "RajasthanRifles",
+	"TeamName": "RAJASTHAN RIFLES",
+	"Abv": "RR",
+	"Rating_Bat": "82",
+	"Rating_Bowl": "72",
+	"Rating_Field": "81",
+	"Logo": "Logo_Rajasthan",
+	"Jersey": "Uniform_Rajasthan",
+	"Pad": "Pad_Rajasthan",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 39,
+		"y": 74,
+		"z": 192
+	},
+	"Jersey_No_RGB": {
+		"x": 224,
+		"y": 196,
+		"z": 122
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "57",
+	"FileName": "BangaloreRockets",
+	"TeamName": "BANGALORE ROCKETS",
+	"Abv": "BR",
+	"Rating_Bat": "87",
+	"Rating_Bowl": "79",
+	"Rating_Field": "83",
+	"Logo": "Logo_Bangalore",
+	"Jersey": "Uniform_Bangalore",
+	"Pad": "Pad_Bangalore",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 21,
+		"y": 23,
+		"z": 22
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 227,
+		"y": 10,
+		"z": 10
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "58",
+	"FileName": "DeccanWarriors",
+	"TeamName": "HYDERABAD HEROES",
+	"Abv": "HH",
+	"Rating_Bat": "84",
+	"Rating_Bowl": "78",
+	"Rating_Field": "80",
+	"Logo": "Logo_Deccan",
+	"Jersey": "Uniform_Deccan",
+	"Pad": "Pad_Deccan",
+	"Type": "4",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 246,
+		"y": 154,
+		"z": 34
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "59",
+	"FileName": "IslamabadSupremos",
+	"TeamName": "ISLAMABAD SUPREMOS",
+	"Abv": "IS",
+	"Rating_Bat": "78",
+	"Rating_Bowl": "76",
+	"Rating_Field": "76",
+	"Logo": "Logo_Islamabad",
+	"Jersey": "Uniform_Islamabad",
+	"Pad": "Pad_Islamabad",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 234,
+		"y": 45,
+		"z": 13
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "60",
+	"FileName": "KarachiBadshahs",
+	"TeamName": "KARACHI BADSHAHS",
+	"Abv": "KB",
+	"Rating_Bat": "75",
+	"Rating_Bowl": "77",
+	"Rating_Field": "79",
+	"Logo": "Logo_Karachi",
+	"Jersey": "Uniform_Karachi",
+	"Pad": "Pad_Karachi",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 20,
+		"y": 65,
+		"z": 176
+	},
+	"Jersey_No_RGB": {
+		"x": 234,
+		"y": 209,
+		"z": 75
+	},
+	"StripBG": {
+		"x": 255,
+		"y": 255,
+		"z": 141
+	},
+	"MainText": "1",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "61",
+	"FileName": "LahoreSaints",
+	"TeamName": "LAHORE SAINTS",
+	"Abv": "LS",
+	"Rating_Bat": "73",
+	"Rating_Bowl": "76",
+	"Rating_Field": "76",
+	"Logo": "Logo_Lahore",
+	"Jersey": "Uniform_Lahore",
+	"Pad": "Pad_Lahore",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 27,
+		"y": 27,
+		"z": 27
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 219,
+		"y": 43,
+		"z": 27
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "62",
+	"FileName": "MultanWarriors",
+	"TeamName": "MULTAN WARRIORS",
+	"Abv": "MW",
+	"Rating_Bat": "72",
+	"Rating_Bowl": "74",
+	"Rating_Field": "76",
+	"Logo": "Logo_Multan",
+	"Jersey": "Uniform_Multan",
+	"Pad": "Pad_Multan",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Jersey_No_RGB": {
+		"x": 223,
+		"y": 219,
+		"z": 11
+	},
+	"StripBG": {
+		"x": 174,
+		"y": 157,
+		"z": 17
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "63",
+	"FileName": "PeshawarYoungsters",
+	"TeamName": "PESHAWAR YOUNGSTERS",
+	"Abv": "PY",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "75",
+	"Rating_Field": "74",
+	"Logo": "Logo_Peshawar",
+	"Jersey": "Uniform_Peshawar",
+	"Pad": "Pad_Peshawar",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 231,
+		"y": 226,
+		"z": 124
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "64",
+	"FileName": "QuettaTalwars",
+	"TeamName": "QUETTA TALWARS",
+	"Abv": "QT",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "74",
+	"Rating_Field": "74",
+	"Logo": "Logo_Quetta",
+	"Jersey": "Uniform_Quetta",
+	"Pad": "Pad_Quetta",
+	"Type": "5",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 75,
+		"y": 47,
+		"z": 165
+	},
+	"Jersey_No_RGB": {
+		"x": 203,
+		"y": 192,
+		"z": 89
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "65",
+	"FileName": "ComillaWinners",
+	"TeamName": "COMILLA WINNERS",
+	"Abv": "CW",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "78",
+	"Rating_Field": "78",
+	"Logo": "Logo_Comilla",
+	"Jersey": "Uniform_Comilla",
+	"Pad": "Pad_Comilla",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 255,
+		"y": 48,
+		"z": 48
+	},
+	"Jersey_No_RGB": {
+		"x": 222,
+		"y": 206,
+		"z": 50
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "66",
+	"FileName": "DhakaBullets",
+	"TeamName": "DHAKA BULLETS",
+	"Abv": "DB",
+	"Rating_Bat": "78",
+	"Rating_Bowl": "78",
+	"Rating_Field": "74",
+	"Logo": "Logo_Dhaka",
+	"Jersey": "Uniform_Dhaka",
+	"Pad": "Pad_Dhaka",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 35,
+		"y": 174,
+		"z": 255
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 216,
+		"z": 71
+	},
+	"StripBG": {
+		"x": 9,
+		"y": 17,
+		"z": 52
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "67",
+	"FileName": "KhulnaGiants",
+	"TeamName": "KHULNA GIANTS",
+	"Abv": "KG",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "72",
+	"Logo": "Logo_Khulna",
+	"Jersey": "Uniform_Khulna",
+	"Pad": "Pad_Khulna",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 190,
+		"y": 59,
+		"z": 12
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "68",
+	"FileName": "RangpurCowboys",
+	"TeamName": "RANGPUR COWBOYS",
+	"Abv": "RC",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "74",
+	"Rating_Field": "73",
+	"Logo": "Logo_Rangpur",
+	"Jersey": "Uniform_Rangpur",
+	"Pad": "Pad_Rangpur",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 36,
+		"y": 39,
+		"z": 181
+	},
+	"Jersey_No_RGB": {
+		"x": 247,
+		"y": 56,
+		"z": 63
+	},
+	"StripBG": {
+		"x": 232,
+		"y": 13,
+		"z": 19
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "69",
+	"FileName": "SylhetStars",
+	"TeamName": "SYLHET STARS",
+	"Abv": "SS",
+	"Rating_Bat": "73",
+	"Rating_Bowl": "71",
+	"Rating_Field": "75",
+	"Logo": "Logo_Sylhet",
+	"Jersey": "Uniform_Sylhet",
+	"Pad": "Pad_Sylhet",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 22,
+		"y": 24,
+		"z": 135
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "70",
+	"FileName": "RajshahiBadshahs",
+	"TeamName": "RAJSHAHI BADSHAHS",
+	"Abv": "RB",
+	"Rating_Bat": "72",
+	"Rating_Bowl": "70",
+	"Rating_Field": "72",
+	"Logo": "Logo_Rajshahi",
+	"Jersey": "Uniform_Rajshahi",
+	"Pad": "Pad_Rajshahi",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 10,
+		"y": 10,
+		"z": 10
+	},
+	"Jersey_No_RGB": {
+		"x": 239,
+		"y": 186,
+		"z": 52
+	},
+	"StripBG": {
+		"x": 239,
+		"y": 186,
+		"z": 52
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "71",
+	"FileName": "ChittagongSaxons",
+	"TeamName": "CHITTAGONG SAXONS",
+	"Abv": "CS",
+	"Rating_Bat": "73",
+	"Rating_Bowl": "71",
+	"Rating_Field": "74",
+	"Logo": "Logo_Chittagong",
+	"Jersey": "Uniform_Chittagong",
+	"Pad": "Pad_Chittagong",
+	"Type": "6",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 255,
+		"y": 49,
+		"z": 49
+	},
+	"Jersey_No_RGB": {
+		"x": 240,
+		"y": 227,
+		"z": 79
+	},
+	"StripBG": {
+		"x": 26,
+		"y": 26,
+		"z": 26
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "72",
+	"FileName": "SurreyGunners",
+	"TeamName": "SURREY",
+	"Abv": "SG",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "80",
+	"Logo": "Logo_Surrey",
+	"Jersey": "Uniform_Surrey",
+	"Pad": "Pad_Surrey",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 35,
+		"y": 169,
+		"z": 159
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "73",
+	"FileName": "KentSteamers",
+	"TeamName": "KENT",
+	"Abv": "KS",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Kent",
+	"Jersey": "Uniform_Kent",
+	"Pad": "Pad_Kent",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 8,
+		"y": 16,
+		"z": 36
+	},
+	"Jersey_No_RGB": {
+		"x": 220,
+		"y": 234,
+		"z": 32
+	},
+	"StripBG": {
+		"x": 235,
+		"y": 24,
+		"z": 89
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "74",
+	"FileName": "SomersetDragons",
+	"TeamName": "SOMERSET",
+	"Abv": "SD",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "78",
+	"Logo": "Logo_Somerset",
+	"Jersey": "Uniform_Somerset",
+	"Pad": "Pad_Somerset",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 203,
+		"y": 201,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 62,
+		"y": 10,
+		"z": 31
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "75",
+	"FileName": "EssexThunder",
+	"TeamName": "ESSEX",
+	"Abv": "ET",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Essex",
+	"Jersey": "Uniform_Essex",
+	"Pad": "Pad_Essex",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 31,
+		"y": 37,
+		"z": 82
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 250,
+		"y": 184,
+		"z": 34
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "76",
+	"FileName": "GloucestershireSuns",
+	"TeamName": "GLOUCESTERSHIRE",
+	"Abv": "GS",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Gloucestershire",
+	"Jersey": "Uniform_Gloucestershire",
+	"Pad": "Pad_Gloucestershire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 201,
+		"y": 189,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "77",
+	"FileName": "SussexDolphins",
+	"TeamName": "SUSSEX",
+	"Abv": "SD",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "78",
+	"Logo": "Logo_Sussex",
+	"Jersey": "Uniform_Sussex",
+	"Pad": "Pad_Sussex",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 71,
+		"y": 170,
+		"z": 203
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "78",
+	"FileName": "HampshireKings",
+	"TeamName": "HAMPSHIRE",
+	"Abv": "HK",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "80",
+	"Logo": "Logo_Hampshire",
+	"Jersey": "Uniform_Hampshire",
+	"Pad": "Pad_Hampshire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 217,
+		"y": 208,
+		"z": 2
+	},
+	"Jersey_No_RGB": {
+		"x": 15,
+		"y": 15,
+		"z": 33
+	},
+	"StripBG": {
+		"x": 15,
+		"y": 15,
+		"z": 33
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "79",
+	"FileName": "MiddlesexRhinos",
+	"TeamName": "MIDDLESEX",
+	"Abv": "MR",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Middlesex",
+	"Jersey": "Uniform_Middlesex",
+	"Pad": "Pad_Middlesex",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 163,
+		"y": 55,
+		"z": 113
+	},
+	"Jersey_No_RGB": {
+		"x": 4,
+		"y": 11,
+		"z": 23
+	},
+	"StripBG": {
+		"x": 4,
+		"y": 11,
+		"z": 23
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "80",
+	"FileName": "GlamorganWolves",
+	"TeamName": "GLAMORGAN",
+	"Abv": "GW",
+	"Rating_Bat": "82",
+	"Rating_Bowl": "80",
+	"Rating_Field": "80",
+	"Logo": "Logo_Glamorgan",
+	"Jersey": "Uniform_Glamorgan",
+	"Pad": "Pad_Glamorgan",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 8,
+		"y": 8,
+		"z": 48
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 215,
+		"y": 190,
+		"z": 21
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "81",
+	"FileName": "BirminghamBeasts",
+	"TeamName": "BIRMINGHAM",
+	"Abv": "BB",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "78",
+	"Rating_Field": "80",
+	"Logo": "Logo_Birmingham",
+	"Jersey": "Uniform_Birmingham",
+	"Pad": "Pad_Birmingham",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 195,
+		"y": 167,
+		"z": 26
+	},
+	"Jersey_No_RGB": {
+		"x": 5,
+		"y": 17,
+		"z": 43
+	},
+	"StripBG": {
+		"x": 5,
+		"y": 17,
+		"z": 43
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "82",
+	"FileName": "LancashireLions",
+	"TeamName": "LANCASHIRE",
+	"Abv": "LL",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "75",
+	"Rating_Field": "78",
+	"Logo": "Logo_Lancashire",
+	"Jersey": "Uniform_Lancashire",
+	"Pad": "Pad_Lancashire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 179,
+		"y": 5,
+		"z": 7
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "83",
+	"FileName": "NorthamptonshireWarriors",
+	"TeamName": "NORTHAMPTONSHIRE",
+	"Abv": "NW",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "80",
+	"Logo": "Logo_Northamptonshire",
+	"Jersey": "Uniform_Northamptonshire",
+	"Pad": "Pad_Northamptonshire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 1,
+		"y": 83,
+		"z": 162
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 175,
+		"y": 0,
+		"z": 53
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "84",
+	"FileName": "WorcestershireSwords",
+	"TeamName": "WORCESTERSHIRE",
+	"Abv": "WS",
+	"Rating_Bat": "75",
+	"Rating_Bowl": "75",
+	"Rating_Field": "77",
+	"Logo": "Logo_Worcestershire",
+	"Jersey": "Uniform_Worcestershire",
+	"Pad": "Pad_Worcestershire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 19,
+		"y": 184,
+		"z": 220
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "85",
+	"FileName": "LeicestershireFireballs",
+	"TeamName": "LEICESTERSHIRE",
+	"Abv": "LF",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "78",
+	"Rating_Field": "80",
+	"Logo": "Logo_Leicestershire",
+	"Jersey": "Uniform_Leicestershire",
+	"Pad": "Pad_Leicestershire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 17,
+		"y": 17,
+		"z": 17
+	},
+	"Jersey_No_RGB": {
+		"x": 184,
+		"y": 148,
+		"z": 62
+	},
+	"StripBG": {
+		"x": 184,
+		"y": 148,
+		"z": 62
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "86",
+	"FileName": "DerbyshireCavaliers",
+	"TeamName": "DERBYSHIRE",
+	"Abv": "DC",
+	"Rating_Bat": "80",
+	"Rating_Bowl": "78",
+	"Rating_Field": "80",
+	"Logo": "Logo_Derbyshire",
+	"Jersey": "Uniform_Derbyshire",
+	"Pad": "Pad_Derbyshire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 23,
+		"y": 49,
+		"z": 92
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 102,
+		"y": 35,
+		"z": 15
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "87",
+	"FileName": "YorkshireAssassins",
+	"TeamName": "YORKSHIRE",
+	"Abv": "YA",
+	"Rating_Bat": "79",
+	"Rating_Bowl": "77",
+	"Rating_Field": "80",
+	"Logo": "Logo_Yorkshire",
+	"Jersey": "Uniform_Yorkshire",
+	"Pad": "Pad_Yorkshire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 146,
+		"y": 225,
+		"z": 237
+	},
+	"Jersey_No_RGB": {
+		"x": 13,
+		"y": 25,
+		"z": 47
+	},
+	"StripBG": {
+		"x": 13,
+		"y": 25,
+		"z": 47
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "88",
+	"FileName": "NottinghamshireDaggers",
+	"TeamName": "NOTTINGHAMSHIRE",
+	"Abv": "ND",
+	"Rating_Bat": "82",
+	"Rating_Bowl": "80",
+	"Rating_Field": "80",
+	"Logo": "Logo_Nottinghamshire",
+	"Jersey": "Uniform_Nottinghamshire",
+	"Pad": "Pad_Nottinghamshire",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 1,
+		"y": 68,
+		"z": 62
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "89",
+	"FileName": "DurhamStars",
+	"TeamName": "DURHAM",
+	"Abv": "DS",
+	"Rating_Bat": "75",
+	"Rating_Bowl": "75",
+	"Rating_Field": "77",
+	"Logo": "Logo_Durham",
+	"Jersey": "Uniform_Durham",
+	"Pad": "Pad_Durham",
+	"Type": "7",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 255,
+		"z": 255
+	},
+	"StripBG": {
+		"x": 178,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "90",
+	"FileName": "BarbadosJavelins",
+	"TeamName": "BARBADOS JAVELINS",
+	"Abv": "BJ",
+	"Rating_Bat": "78",
+	"Rating_Bowl": "76",
+	"Rating_Field": "76",
+	"Logo": "Logo_Barbados",
+	"Jersey": "Uniform_Barbados",
+	"Pad": "Pad_Barbados",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 0,
+		"y": 30,
+		"z": 199
+	},
+	"Jersey_No_RGB": {
+		"x": 231,
+		"y": 218,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 231,
+		"y": 218,
+		"z": 0
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "91",
+	"FileName": "GuyanaOutlaws",
+	"TeamName": "GUYANA OUTLAWS",
+	"Abv": "GO",
+	"Rating_Bat": "75",
+	"Rating_Bowl": "77",
+	"Rating_Field": "79",
+	"Logo": "Logo_Guyana",
+	"Jersey": "Uniform_Guyana",
+	"Pad": "Pad_Guyana",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 220,
+		"y": 198,
+		"z": 0
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "92",
+	"FileName": "JamaicaMeteors",
+	"TeamName": "JAMAICA METEORS",
+	"Abv": "JM",
+	"Rating_Bat": "73",
+	"Rating_Bowl": "76",
+	"Rating_Field": "76",
+	"Logo": "Logo_Jamaica",
+	"Jersey": "Uniform_Jamaica",
+	"Pad": "Pad_Jamaica",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 25,
+		"y": 25,
+		"z": 25
+	},
+	"Jersey_No_RGB": {
+		"x": 229,
+		"y": 226,
+		"z": 66
+	},
+	"StripBG": {
+		"x": 229,
+		"y": 226,
+		"z": 66
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "93",
+	"FileName": "KittsAndNevisTroopers",
+	"TeamName": "ST. KITTS & NEVIS",
+	"Abv": "KN",
+	"Rating_Bat": "72",
+	"Rating_Bowl": "74",
+	"Rating_Field": "76",
+	"Logo": "Logo_Kitts",
+	"Jersey": "Uniform_Kitts",
+	"Pad": "Pad_Kitts",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 25,
+		"y": 25,
+		"z": 25
+	},
+	"Jersey_No_RGB": {
+		"x": 255,
+		"y": 236,
+		"z": 2
+	},
+	"StripBG": {
+		"x": 255,
+		"y": 236,
+		"z": 2
+	},
+	"MainText": "0",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}, {
+	"Index": "94",
+	"FileName": "LuciaPirates",
+	"TeamName": "ST. LUCIA PIRATES",
+	"Abv": "LP",
+	"Rating_Bat": "76",
+	"Rating_Bowl": "75",
+	"Rating_Field": "74",
+	"Logo": "Logo_Lucia",
+	"Jersey": "Uniform_Lucia",
+	"Pad": "Pad_Lucia",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 2,
+		"y": 222,
+		"z": 240
+	},
+	"Jersey_No_RGB": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"StripBG": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"MainText": "1",
+	"StripText": "0",
+	"AnthemDuration": "0"
+}, {
+	"Index": "95",
+	"FileName": "TrinbagoReds",
+	"TeamName": "TRINBAGO REDS",
+	"Abv": "TR",
+	"Rating_Bat": "77",
+	"Rating_Bowl": "74",
+	"Rating_Field": "74",
+	"Logo": "Logo_Trinbago",
+	"Jersey": "Uniform_Trinbago",
+	"Pad": "Pad_Trinbago",
+	"Type": "8",
+	"TestEligible": "0",
+	"Jersey_RGB": {
+		"x": 217,
+		"y": 4,
+		"z": 1
+	},
+	"Jersey_No_RGB": {
+		"x": 247,
+		"y": 196,
+		"z": 15
+	},
+	"StripBG": {
+		"x": 247,
+		"y": 196,
+		"z": 15
+	},
+	"MainText": "1",
+	"StripText": "1",
+	"AnthemDuration": "0"
+}]
